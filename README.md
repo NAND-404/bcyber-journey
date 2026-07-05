@@ -1,2 +1,2 @@
 # b.cyber-journey
-Documenting my journey into cybersecurity from first principles
+Documenting my cybersecurity journey from first principles, because that's how I love to learn!
